@@ -13,6 +13,7 @@ figure {
 }
 
 nav a {
+  bakground: gray;
   padding-right: 10px; 
   padding-left: 10px;
 }
