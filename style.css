@@ -13,7 +13,7 @@ figure {
 }
 
 nav a {
-  text-align: center;
+  align-content: center;
   background: gray;
   padding-right: 10px; 
   padding-left: 10px;
